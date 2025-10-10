@@ -1,4 +1,5 @@
 ## Hi there 👋
+-
 I'm Yuri :3
 -
 This GitHub is to showcase any and all of the projects I've been working on, whether it be for my university classes or my professional employment.
