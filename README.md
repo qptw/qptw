@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Yuri :3
-This GitHub is to showcase any and all of the projects I've been working on, whether it be for my university classes or my professional employment.
-I’m currently working as an intern at QuantumHub while studying CIS at Cal Poly Pomona.
+I'm Yuri :3 |
+This GitHub is to showcase any and all of the projects I've been working on, whether it be for my university classes or my professional employment. |
+I’m currently working as an intern at QuantumHub while studying CIS at Cal Poly Pomona. |
 You can reach me via the email in my profile if you want to connect on other platforms :3
 <!--
 **qptw/qptw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
