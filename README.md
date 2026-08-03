@@ -3,7 +3,7 @@ I'm Yuri :3
 
 This GitHub is to showcase any and all of the projects I've been working on, whether it be for my university classes or my professional employment.
 
-I used to be a Cloud Solutions Associate and am currently studying CIS at Cal Poly Pomona, but will be graduating in May 2026.
+I used to be a Cloud Solutions Associate and have recently graduated from Cal Poly Pomona with a degree in Computer Information Systems
 
 You can reach me via the email in my profile if you want to connect on other platforms :3
 <!--
